@@ -1,3 +1,4 @@
+# The code was originally written by Reza Torabi and later developed further by Phoenix Marie.
 import ctypes
 import sys
 import subprocess
